@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\Asus\Kì 2 năm 3\DataMining\.metadata\.plugins\org.eclipse.jdt.core
+752571841.index
+1865797976.index
+2318631346.index
+3821385072.index
+259564125.index

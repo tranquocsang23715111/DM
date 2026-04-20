@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run MainApp (Weka)",
+      "request": "launch",
+      "mainClass": "ex_classification.MainApp",
+      "projectName": "ex_classification",
+      "cwd": "${workspaceFolder}/ex_classification",
+      "vmArgs": "--add-opens java.base/java.lang=ALL-UNNAMED",
+      "classPaths": [
+        "${workspaceFolder}/ex_classification/bin",
+        "C:/Program Files/Weka-3-8-6/weka.jar"
+      ]
+    }
+  ]
+}
